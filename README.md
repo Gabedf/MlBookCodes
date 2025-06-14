@@ -62,7 +62,7 @@ bash
 Copy
 pip install -r requirements.txt
 Run the notebooks or scripts as needed.
-
+```
 🎯 **Purpose**
 This repository serves as:
 
