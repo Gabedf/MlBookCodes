@@ -29,18 +29,18 @@ This book provides a hands-on approach to solving (almost) any machine learning 
 ├── README.md          # This file
 └── requirements.txt   # Project dependencies
 
-| Chapter | Description                           | Status |
-| ------- | ------------------------------------- | ------ |
+| Chapter | Description                           | Status   |
+| ------- | ------------------------------------- | ------   |
 | 1       | Introduction and overview             | ✅      |
 | 2       | Data preparation                      | ✅      |
 | 3       | Cross-validation and data splitting   | ✅      |
-| 4       | Machine learning models               | 🔄     |
-| 5       | Feature engineering                   | 🔄     |
-| 6       | Model ensembling and blending         | 🔄     |
-| 7       | Multiclass classification             | 🔄     |
-| 8       | Regression problems                   | 🔄     |
-| 9       | Ranking and learning-to-rank problems | 🔄     |
-| 10      | Conclusions and next steps            | 🔄     |
+| 4       | Machine learning models               | 🔄      |
+| 5       | Feature engineering                   | 🔄      |
+| 6       | Model ensembling and blending         | 🔄      |
+| 7       | Multiclass classification             | 🔄      |
+| 8       | Regression problems                   | 🔄      |
+| 9       | Ranking and learning-to-rank problems | 🔄      |
+| 10      | Conclusions and next steps            | 🔄      |
 
 🔧 How to Run
 Clone this repository:
